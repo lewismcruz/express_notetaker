@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Unit 11 Express Homework: Note Taker
+# Express Note Taker App
 
 ## Description
 
@@ -74,7 +73,7 @@ You are required to submit the following:
 * The URL of the GitHub repository
 
 - - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
 =======
 # express_notetaker
->>>>>>> 6f03b62591f5903884bfe056b0a00930ef4317f6
+
