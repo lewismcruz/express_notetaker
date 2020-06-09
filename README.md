@@ -29,4 +29,4 @@ Several popular broswers are: Chrome, Firefox, Edge, and Opera.  Search online f
 # Preview
 This is what the app should look like on your device.
 
-
+![Note Taker App Screenshot](https://github.com/lewismcruz/express_notetaker/blob/master/notetakerapp.jpg)
