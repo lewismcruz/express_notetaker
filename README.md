@@ -25,3 +25,8 @@ It was created using Bootstrap CSS and Express.js and should work on most mobile
 The only software needed to run this application is a browser so no download is required (unless your device did not have a browser pre-installed).
 
 Several popular broswers are: Chrome, Firefox, Edge, and Opera.  Search online for documentation when selecting the browswer of your choice.
+
+# Preview
+This is what the app should look like on your device.
+
+
