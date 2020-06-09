@@ -9,7 +9,7 @@ It is a Note Taker App to help someone keep track of To Dos, grocery lists, or j
 
 # To create a new note
 1. Open a broswer window.
-2. In the URL field enter or copy the following URL:
+2. In the URL field enter or copy the following URL: https://infinite-forest-90587.herokuapp.com/
 3. Tap on the note field you would like to type a note into.
 4. Type out your reminder.
 5. Select the save icon/button.
